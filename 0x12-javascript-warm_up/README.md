@@ -7,12 +7,17 @@ Here, I will use JavaScript for 2 reasons:
 <li>Scripting (same as we did with Python)</li>
 <li>Web front-end</li>
 </ul>
+
 * Started by Installing Node 14 with the ffg codes
-$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-$ sudo apt-get install -y nodejs
+<ul>
+<li>$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -</li>
+<li>$ sudo apt-get install -y nodejs</li>
+</ul>
 
 * Then I installed JavaScript Semi-Standard Style with this -
-$ sudo npm install semistandard --global
+<ul>
+<li>$ sudo npm install semistandard --global</li>
+</ul>
 
 Tasks involved writing various introductory-level JavaScript scripts on Node.js.
 
