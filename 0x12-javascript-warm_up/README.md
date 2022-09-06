@@ -8,13 +8,13 @@ Here, I will use JavaScript for 2 reasons:
 <li>Web front-end</li>
 </ul>
 
-* Started by Installing Node 14 with the ffg codes
+Started by Installing Node 14 with the ffg codes
 <ul>
 <li>$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -</li>
 <li>$ sudo apt-get install -y nodejs</li>
 </ul>
 
-* Then I installed JavaScript Semi-Standard Style with this -
+Then I installed JavaScript Semi-Standard Style with this -
 <ul>
 <li>$ sudo npm install semistandard --global</li>
 </ul>
