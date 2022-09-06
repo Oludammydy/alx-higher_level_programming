@@ -4,7 +4,7 @@
 JavaScript is used for many things. 
 Here, I used JavaScript for 2 reasons:
 <ul>
-<li>Scripting (same as we did with Python)</li>
+<li>Scripting (same as I did with Python)</li>
 <li>Web front-end</li>
 </ul>
 
